@@ -35,8 +35,9 @@ spring.datasource.password=mysql
 ## Screenshots
 ![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/d52e7f22-7890-4630-a76d-a4484cb9bc10)
 ![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/2a73c42a-578e-4f95-bc58-45439759c1ac)
-![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/27ef09f4-1145-4863-b914-214607376970)
-![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/39afc39b-dd32-44b6-ab5c-2b7d4b32f7c8)
+![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/8ce9403f-4549-4551-af88-95a18a0a91aa)
+![Image](https://github.com/NeiDenn/spring-reactjs-wowgames/assets/85379478/4243e899-b637-4ff5-b4de-c4ca12489fea)
+
 
 
 
